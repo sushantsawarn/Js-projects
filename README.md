@@ -1,3 +1,3 @@
-# Js-projects
-JavaScript projects/ miniProjects
+# Js-Monster KIller project
+
 
